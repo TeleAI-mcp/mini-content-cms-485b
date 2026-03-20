@@ -1,2 +1,3 @@
-# mini-content-cms-485b
-A content management system for modern development workflows
+# Mini Content Cms 485B
+
+A content management system for modern development workflows.
